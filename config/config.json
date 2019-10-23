@@ -1,7 +1,7 @@
 {
     "url":{
         "connectionString" : "postgres://jzqwhxigxmlvke:45d22080aa781284b74a3009f90ad84cfdf35ccb54d4c556265e4a87afa3f375@ec2-174-129-252-211.compute-1.amazonaws.com:5432/d9j23hqbjo3rea",
-        "api": "http://www.mocky.io/v2/5dadb7372d0000c33fe4bc58"
+        "api": " http://www.mocky.io/v2/5db002842f00002383c13777"
         
     }
 }

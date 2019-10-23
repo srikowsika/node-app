@@ -1,7 +1,7 @@
 {
-        "select_table": "Select * from Student;",
-        "create_student_table": "Create table Student(id integer,name varchar(50));",
-        "insert_values":"INSERT INTO Student VALUES ($1,$2)",
+        "select_table": "Select * from Student_Detail;",
+        "create_student_table": "Create table Student_Detail(id varchar(150),name varchar(150), type varchar(150),attribute json);",
+        "insert_values":"INSERT INTO Student_Detail VALUES ($1,$2,$3,$4)",
         "get_tables":"Select table_name from information_schema.tables where table_schema=$1;"
     
 }
